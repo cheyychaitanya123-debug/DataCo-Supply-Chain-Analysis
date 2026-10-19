@@ -1,5 +1,4 @@
 # Large source dataset
-Data/Raw/DataCoSupplyChainDataset.csv
 
 # Large SQLite database
 SQL/dataco_supply_chain.db
