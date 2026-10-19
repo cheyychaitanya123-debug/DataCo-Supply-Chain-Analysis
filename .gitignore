@@ -1,0 +1,14 @@
+# Large source dataset
+Data/Raw/DataCoSupplyChainDataset.csv
+
+# Large SQLite database
+SQL/dataco_supply_chain.db
+
+# Python temporary files
+__pycache__/
+.ipynb_checkpoints/
+
+# Environment and secrets
+.env
+.venv/
+venv/
